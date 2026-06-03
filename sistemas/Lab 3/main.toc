@@ -1,0 +1,24 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{Introducción}{2}{Doc-Start}%
+\contentsline {section}{Objetivo general}{2}{Doc-Start}%
+\contentsline {section}{Objetivos específicos}{2}{Doc-Start}%
+\contentsline {section}{Desarollo teórico}{3}{Doc-Start}%
+\contentsline {subsection}{Señales analogicas y Digitales }{3}{section*.1}%
+\contentsline {subsection}{El proceso de muestreo}{4}{figure.2}%
+\contentsline {subsection}{Cuantificacion y resolucion }{5}{equation.0.1}%
+\contentsline {subsection}{El Convertidor analogico-digital(ADC)}{6}{equation.0.2}%
+\contentsline {subsection}{El convertidor digital-Analogico(DAC)}{6}{equation.0.2}%
+\contentsline {subsection}{Señal Triangular diente Sierra}{6}{equation.0.2}%
+\contentsline {subsection}{Relacion entre entrada y codificacion de salida}{7}{equation.0.2}%
+\contentsline {subsection}{ADC a codigo Binario a DAC}{8}{equation.0.4}%
+\contentsline {section}{Diseño del sitema}{9}{equation.0.5}%
+\contentsline {subsection}{Esquema general del sistema}{9}{section*.2}%
+\contentsline {subsection}{Resolución del ADC}{10}{figure.3}%
+\contentsline {subsection}{Frecuencia de muestreo}{11}{figure.3}%
+\contentsline {subsection}{Resultados esperados}{12}{figure.3}%
+\contentsline {subsection}{Análisis del diseño}{13}{figure.3}%
+\contentsline {section}{Simulación del circuito}{14}{figure.3}%
+\contentsline {subsection}{\textbf {\textit {Caso 1: Máximo}}}{16}{figure.5}%
+\contentsline {subsection}{\textbf {\textit {Caso 2: Mínimo}}}{18}{figure.6}%
+\contentsline {subsection}{\textbf {\textit {Caso 3: Punto arbitrario}}}{19}{figure.7}%
+\contentsline {section}{Conclusión}{21}{figure.8}%

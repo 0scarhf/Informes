@@ -1,0 +1,21 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{Introducción}{2}{Doc-Start}%
+\contentsline {section}{Objetivos}{2}{Doc-Start}%
+\contentsline {subsection}{Objetivo General:}{2}{section*.1}%
+\contentsline {subsection}{Objetivos específicos:}{2}{section*.1}%
+\contentsline {section}{Desarrollo teórico}{3}{section*.1}%
+\contentsline {section}{Diseño del sistema digital}{6}{figure.caption.5}%
+\contentsline {subsection}{Esquema general del sistema}{6}{section*.6}%
+\contentsline {subsection}{Resolución del ADC}{7}{figure.caption.7}%
+\contentsline {subsection}{Frecuencia de muestreo}{7}{equation.0.2}%
+\contentsline {subsection}{Relación entre el voltaje de entrada y la salida digital}{8}{equation.0.3}%
+\contentsline {subsection}{Resultados esperados}{8}{equation.0.4}%
+\contentsline {subsection}{Análisis del diseño}{9}{equation.0.4}%
+\contentsline {section}{Simulación del circuito}{10}{equation.0.4}%
+\contentsline {subsection}{Verificación de la frecuencia de muestreo}{11}{figure.caption.8}%
+\contentsline {subsection}{Verificación del funcionamiento del ADC}{12}{figure.caption.9}%
+\contentsline {subsection}{\textit {Caso 1: Maximo}}{12}{figure.caption.9}%
+\contentsline {subsection}{\textit {Caso 2: minimo}}{14}{figure.caption.10}%
+\contentsline {subsection}{\textit {Caso 3: Punto aleatorio}}{15}{figure.caption.11}%
+\contentsline {section}{Conclusión}{16}{figure.caption.12}%
+\contentsline {section}{Anexo}{17}{figure.caption.12}%

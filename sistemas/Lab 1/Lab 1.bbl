@@ -1,0 +1,189 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global}
+    \entry{floyd2006fundamentos}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d707621bff00860337e7468e3c963e1e}{%
+           family={Floyd},
+           familyi={F\bibinitperiod},
+           given={Thomas\bibnamedelima L.},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Madrid, España}%
+      }
+      \list{publisher}{1}{%
+        {Pearson Educación S.A.}%
+      }
+      \strng{namehash}{d707621bff00860337e7468e3c963e1e}
+      \strng{fullhash}{d707621bff00860337e7468e3c963e1e}
+      \strng{bibnamehash}{d707621bff00860337e7468e3c963e1e}
+      \strng{authorbibnamehash}{d707621bff00860337e7468e3c963e1e}
+      \strng{authornamehash}{d707621bff00860337e7468e3c963e1e}
+      \strng{authorfullhash}{d707621bff00860337e7468e3c963e1e}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{9a}
+      \field{isbn}{978-84-832-2720-6}
+      \field{note}{Traducción de Eduardo Barrera López de Turiso}
+      \field{title}{Fundamentos de sistemas digitales}
+      \field{year}{2006}
+    \endentry
+    \entry{tocci2007sistemas}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=947027f93c224229adc7089884ad8c88}{%
+           family={Tocci},
+           familyi={T\bibinitperiod},
+           given={Ronald\bibnamedelima J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d46464abd9b8e7ec4155f096244646e7}{%
+           family={Widmer},
+           familyi={W\bibinitperiod},
+           given={Neal\bibnamedelima S.},
+           giveni={N\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=50148bc3e805181c0943485092683768}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Gregory\bibnamedelima L.},
+           giveni={G\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Naucalpan de Juárez, México}%
+      }
+      \list{publisher}{1}{%
+        {Pearson Educación}%
+      }
+      \strng{namehash}{a78784c0acfd7a9fd64202aa9223b279}
+      \strng{fullhash}{ce3fd78e46c80573f33e3d8d5652f247}
+      \strng{bibnamehash}{ce3fd78e46c80573f33e3d8d5652f247}
+      \strng{authorbibnamehash}{ce3fd78e46c80573f33e3d8d5652f247}
+      \strng{authornamehash}{a78784c0acfd7a9fd64202aa9223b279}
+      \strng{authorfullhash}{ce3fd78e46c80573f33e3d8d5652f247}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{10a}
+      \field{isbn}{978-970-26-0970-4}
+      \field{note}{Traducción de Alfonso Vidal Romero Elizondo}
+      \field{title}{Sistemas digitales. Principios y aplicaciones}
+      \field{year}{2007}
+      \true{nocite}
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global}
+    \entry{floyd2006fundamentos}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d707621bff00860337e7468e3c963e1e}{%
+           family={Floyd},
+           familyi={F\bibinitperiod},
+           given={Thomas\bibnamedelima L.},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Madrid, España}%
+      }
+      \list{publisher}{1}{%
+        {Pearson Educación S.A.}%
+      }
+      \strng{namehash}{d707621bff00860337e7468e3c963e1e}
+      \strng{fullhash}{d707621bff00860337e7468e3c963e1e}
+      \strng{bibnamehash}{d707621bff00860337e7468e3c963e1e}
+      \strng{authorbibnamehash}{d707621bff00860337e7468e3c963e1e}
+      \strng{authornamehash}{d707621bff00860337e7468e3c963e1e}
+      \strng{authorfullhash}{d707621bff00860337e7468e3c963e1e}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{9a}
+      \field{isbn}{978-84-832-2720-6}
+      \field{note}{Traducción de Eduardo Barrera López de Turiso}
+      \field{title}{Fundamentos de sistemas digitales}
+      \field{year}{2006}
+    \endentry
+    \entry{tocci2007sistemas}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=947027f93c224229adc7089884ad8c88}{%
+           family={Tocci},
+           familyi={T\bibinitperiod},
+           given={Ronald\bibnamedelima J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d46464abd9b8e7ec4155f096244646e7}{%
+           family={Widmer},
+           familyi={W\bibinitperiod},
+           given={Neal\bibnamedelima S.},
+           giveni={N\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=50148bc3e805181c0943485092683768}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Gregory\bibnamedelima L.},
+           giveni={G\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Naucalpan de Juárez, México}%
+      }
+      \list{publisher}{1}{%
+        {Pearson Educación}%
+      }
+      \strng{namehash}{a78784c0acfd7a9fd64202aa9223b279}
+      \strng{fullhash}{ce3fd78e46c80573f33e3d8d5652f247}
+      \strng{bibnamehash}{ce3fd78e46c80573f33e3d8d5652f247}
+      \strng{authorbibnamehash}{ce3fd78e46c80573f33e3d8d5652f247}
+      \strng{authornamehash}{a78784c0acfd7a9fd64202aa9223b279}
+      \strng{authorfullhash}{ce3fd78e46c80573f33e3d8d5652f247}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{10a}
+      \field{isbn}{978-970-26-0970-4}
+      \field{note}{Traducción de Alfonso Vidal Romero Elizondo}
+      \field{title}{Sistemas digitales. Principios y aplicaciones}
+      \field{year}{2007}
+      \true{nocite}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
