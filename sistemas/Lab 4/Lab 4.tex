@@ -1,0 +1,153 @@
+\documentclass[12pt,letterpaper]{article}
+
+% Paquetes base
+\usepackage[spanish]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{mathpazo}
+\usepackage[margin=2.5cm]{geometry}
+\usepackage{setspace}
+\onehalfspacing
+\usepackage{parskip}
+\usepackage{microtype}
+\usepackage{graphicx}
+\usepackage{hyperref}
+
+\hypersetup{colorlinks=false, linkcolor=black, urlcolor=blue, citecolor=black}
+
+\usepackage{xcolor}
+\usepackage{enumitem}
+\usepackage{ragged2e}
+\usepackage{float}
+\usepackage{csquotes}
+\usepackage{tabularx}
+\usepackage{booktabs}
+\usepackage{multirow}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{tikz}
+
+\addto\captionsspanish{\renewcommand{\refname}{Bibliografía}}
+
+% Encabezado/pie
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+
+% Altura del encabezado para que quepa el logo (1.8 cm ~ 51pt)
+\setlength{\headheight}{52pt}
+% (Opcional) si ves el contenido muy abajo, puedes recuperar un poco de margen:
+% \addtolength{\topmargin}{-8pt}
+
+% Encabezado
+\lhead{\includegraphics[height=1.8cm]{Img/escudo.png}}
+\chead{Universidad del Bío-Bío}
+%\rhead{\nouppercase{\leftmark}}
+
+% Pie de página
+\lfoot{Sistemas Digitales}
+\cfoot{\thepage}
+\rfoot{Grupo 8}
+
+% Líneas superior e inferior
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+
+% Espaciado de títulos (aleja los títulos del encabezado)
+\usepackage{titlesec}
+\titleformat{\section}{\normalfont\Large\bfseries\filcenter}{\thesection}{1em}{}
+\titlespacing*{\section}{0pt}{1cm}{-0.1cm}
+\titlespacing*{\subsection}{0pt}{1cm}{-0.1cm}
+
+% (Opcional) Sin numeración en títulos (y siguen en el índice)
+%\setcounter{secnumdepth}{0}
+
+% (Opcional) Cambiar el nombre del índice a "Índice"
+\addto\captionsspanish{\renewcommand{\contentsname}{Índice}}
+\renewcommand{\thetable}{\arabic{table}}
+\renewcommand{\thefigure}{\arabic{figure}}
+\setlength{\footskip}{0.9cm}  % valor más chico → sube el pie
+
+\begin{document}
+	
+	\begin{titlepage}
+		\thispagestyle{empty}
+		
+		% ===== Bloque superior: escudo + institución =====
+		\begin{center}
+			\vspace*{-2cm} % margen superior discreto
+			\includegraphics[height=3.5cm]{Img/escudo.png}\\[-0.2cm]
+			
+			{\large Universidad del Bío-Bío}\\[-2pt]
+			{\large Facultad de Ciencias Empresariales}\\[-2pt]
+			{\large Ingeniería Civil en Informática}
+		\end{center}
+		
+		\vspace{1cm}
+		\vfill
+		
+		% ===== Bloque central: TÍTULO =====
+		\begin{center}
+			\rule{\textwidth}{0.5pt}\\[0.5cm]
+			{\Huge \textbf{Informe de laboratorio N\textsuperscript{o}4}}\\[0.25cm]
+			{\Large Operaciones Lógicas}\\[0.1cm]
+			\rule{0.65\textwidth}{0.5pt}
+		\end{center}
+		
+		\vspace{2cm}
+		
+    \begin{flushleft}
+    \normalsize
+    \begin{tabular}{@{}ll@{}}
+                           & \\
+    \textbf{Integrantes}   & : Oscar Illanes Garrido \\
+                           & \hspace{0.12 cm} Gabriela Maureira Ocaña \\
+                           & \hspace{0.12 cm}  Bastian Palma Navarrete \\
+                           & \\
+    \textbf{Docente}       & : Julio C. Alarcón Monteros \\
+                           & \\
+    \textbf{Asignatura}    & : Sistemas Digitales \\
+                           & \\
+    \textbf{Carrera}    & : Ingeniería Civil en Informática \\
+    \end{tabular}
+    \end{flushleft}
+		
+		\vfill
+		\begin{center}
+			\normalsize\textbf{Chillán, 5 de junio de 2026.}
+		\end{center}
+	\end{titlepage}
+	
+	\tableofcontents 
+
+	\newpage
+	
+	\section{Introducción}
+
+
+
+    \section{Objetivo general:}
+    
+    
+    \subsection{Objetivos específicos:}
+    \begin{itemize}
+        \item 
+    \end{itemize}
+
+    \section{Desarrollo teórico}
+
+
+    \section{Diseño del Sistema}
+
+
+
+    \newpage
+
+    %==========================================================================
+
+    \section{Simulación del circuito}
+    
+    \section{Conclusión}
+
+
+\end{document}
